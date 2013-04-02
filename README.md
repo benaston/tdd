@@ -16,16 +16,10 @@ public void SetUp()
 }
 
 [Test]
-public void UsesPostApiWhenNewPrice() 
-{
-  //...
-}
+public void UsesPostApiWhenNewPrice() { }
 
 [Test]
-public void ShouldUsePostApiWhenNewPrice() 
-{
-  //...
-}
+public void ShouldUsePostApiWhenNewPrice() { }
 
 [Test]
 public void Save_NewPrice_UsesPostApi() 
